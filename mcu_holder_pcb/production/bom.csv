@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2, H3",mouse-bite-2mm-slot,3,MountingHole_Pad,
+J1,JST_XH_2.54mm_vertical,1,BAT_connector_left,
+J2,JST_XH_2.54mm_vertical,1,BAT_connector_right,
+"J3, J4",PinHeader_1x04_P2.54mm_Vertical,2,Conn_01x04_Socket,
+"J5, J6",PinHeader_1x05_P2.54mm_Vertical,2,Ribbon,
+J7,PinHeader_1x06_P2.54mm_Vertical,1,pmw3610_connector,
+RESET_2,SW_SPST_CK_RS282G05A3,1,switch_reset_left,
+RESET,SW_SPST_CK_RS282G05A3,1,switch_reset_right,
+"SW3, SW4",200AWMSP2T2A1M6RE,2,~,
+U1,Arduino_Pro_Micro_Flipped,1,nice!nano_flipped_left,
+U2,Arduino_Pro_Micro_Flipped,1,nice!nano_flipped_right,

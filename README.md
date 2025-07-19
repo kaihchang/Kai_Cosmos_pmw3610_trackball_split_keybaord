@@ -4,7 +4,7 @@ Design is mostly created using [rianadon's Cosmos Keyboard Configurator](https:/
 
 What I did:
 1. Scan my own hands with the tools Cosmos Keyboard Configurator provided and my phone's camera.
-2. Add a 34mm trackball with Skree ZMK to the right side, which will also be ZMK's main side.
+2. Add a 34mm trackball with [Skree ZMK pmw3610 board](https://github.com/siderakb/pmw3610-pcb) to the right side, which will also be ZMK's main side.
 3. Download the models and edit in Blender and Fusion to smooth the corners.
 4. Using the microcontroller holder template from Cosmos Keyboard Configurator, draw out PCB in Kicad.
 5. Implement [badjeff's zmk-pmw3610-driver](https://github.com/badjeff/zmk-pmw3610-driver/tree/main) with some official ZMK settings. Documentations aren't really clear, I recommend searching and copying from public repos on Github.

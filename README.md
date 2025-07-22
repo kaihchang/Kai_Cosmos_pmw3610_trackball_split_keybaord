@@ -22,4 +22,5 @@ What I did:
 Things for further improvements:
 1. Reset button should be set under MCU holder PCB for easier access.
 2. Should have cutouts under MCUs to make built-in LEDs more visible.
-3. Not crucial but important, pmw3610 orientation does matter, since with official settings you can only rotate it in 90-degree increments. Fortunately worked out for me, but I didn't know this beforehand.
+3. Should have copper keep out zones beneath MCU's antennae for better Bluetooth signal.
+4. Not crucial but important, pmw3610 orientation does matter, since with official settings you can only rotate it in 90-degree increments. Fortunately worked out for me, but I didn't know this beforehand.

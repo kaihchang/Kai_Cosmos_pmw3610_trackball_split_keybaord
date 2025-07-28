@@ -1,7 +1,7 @@
 # Kai Cosmos 40, a ZMK split keyboard with pmw3610 trackball
 
-👉 ZMK firmware|
-[Dongle-less](https://github.com/kaihchang/zmk-config-kai-cosmos)|
+👉 ZMK firmware |
+[Dongle-less](https://github.com/kaihchang/zmk-config-kai-cosmos) |
 [With Dongle](https://github.com/kaihchang/zmk-config-kai-cosmos-dongle)
 
 ![PXL_20250728_055040921~2](https://github.com/user-attachments/assets/882acd2c-7875-44f3-a110-0f80a90bc68d)
